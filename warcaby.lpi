@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="warcaby"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="3">
+      <Item1>
+        <PackageName Value="Nowy_Pakiet1"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="Nowy_Pakiet"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="LCL"/>
+      </Item3>
+    </RequiredPackages>
+    <Units Count="19">
+      <Unit0>
+        <Filename Value="warcaby.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="manvsman.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ManVSMan"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="img\globalne.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="img\bialypionekfs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bialyPionekFS"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="img\bialypionekfp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bialyPionekFP"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="img\czarnypionekfs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnyPionekFS"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="img\czarnypionekfp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnyPionekFP"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="img\bialadamkafs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bialaDamkaFS"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="img\bialadamkafp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bialaDamkaFP"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="img\czarnadamkafs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnaDamkaFS"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="img\czarnadamkafp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnaDamkaFP"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="img\uniwersalne.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="manvsai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ManVSAI"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="globalne2.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="czarnypionekfsai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnyPionekFSAI"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="czarnypionekfpai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnyPionekFPAI"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="czarnadamkafsai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnaDamkaFSAI"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="czarnadamkafpai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnaDamkaFPAI"/>
+      </Unit18>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="warcaby"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <OtherUnitFiles Value="img"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

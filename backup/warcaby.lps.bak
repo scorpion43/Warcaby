@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="21">
+      <Unit0>
+        <Filename Value="warcaby.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="45" Y="12"/>
+        <UsageCount Value="30"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="14" Y="55"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="manvsman.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ManVSMan"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="126"/>
+        <CursorPos X="61" Y="198"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="img\globalne.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="16"/>
+        <TopLine Value="4"/>
+        <CursorPos X="13" Y="4"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="img\bialypionekfs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bialyPionekFS"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="37" Y="140"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="img\bialypionekfp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bialyPionekFP"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="208"/>
+        <CursorPos X="22" Y="654"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="img\czarnypionekfs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnyPionekFS"/>
+        <EditorIndex Value="9"/>
+        <CursorPos X="37" Y="144"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="img\czarnypionekfp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnyPionekFP"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="634"/>
+        <CursorPos X="22" Y="653"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="img\bialadamkafs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bialaDamkaFS"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="131"/>
+        <CursorPos X="11" Y="139"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="img\bialadamkafp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bialaDamkaFP"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="1489"/>
+        <CursorPos X="95" Y="1549"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="img\czarnadamkafs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnaDamkaFS"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="109"/>
+        <CursorPos X="16" Y="141"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="img\czarnadamkafp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnaDamkaFP"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="1516"/>
+        <CursorPos X="11" Y="1541"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="img\uniwersalne.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="15"/>
+        <TopLine Value="43"/>
+        <CursorPos X="107" Y="44"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="manvsai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ManVSAI"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="121"/>
+        <CursorPos X="26" Y="141"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="globalne2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="17"/>
+        <CursorPos X="24" Y="16"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="czarnypionekfsai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnyPionekFSAI"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="31"/>
+        <CursorPos X="106" Y="40"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="czarnypionekfpai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnyPionekFPAI"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="36"/>
+        <CursorPos X="13" Y="65"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="czarnadamkafsai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnaDamkaFSAI"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="10" Y="9"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="czarnadamkafpai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="czarnaDamkaFPAI"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="9" Y="9"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2185"/>
+        <CursorPos Y="2196"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\Users\dariuszN\Documents\warcaby\nowe_komponenty\pole.pas"/>
+        <UnitName Value="Pole"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="358" Column="17" TopLine="356"/>
+      </Position1>
+      <Position2>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="364" Column="17" TopLine="362"/>
+      </Position2>
+      <Position3>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="370" Column="17" TopLine="368"/>
+      </Position3>
+      <Position4>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="376" Column="17" TopLine="374"/>
+      </Position4>
+      <Position5>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="382" Column="17" TopLine="380"/>
+      </Position5>
+      <Position6>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="388" Column="17" TopLine="386"/>
+      </Position6>
+      <Position7>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="394" Column="17" TopLine="392"/>
+      </Position7>
+      <Position8>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="400" Column="17" TopLine="398"/>
+      </Position8>
+      <Position9>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="411" Column="16" TopLine="409"/>
+      </Position9>
+      <Position10>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="417" Column="17" TopLine="415"/>
+      </Position10>
+      <Position11>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="9" Column="101"/>
+      </Position11>
+      <Position12>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="10" Column="19"/>
+      </Position12>
+      <Position13>
+        <Filename Value="czarnypionekfpai.pas"/>
+        <Caret Column="6"/>
+      </Position13>
+      <Position14>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="9" Column="98"/>
+      </Position14>
+      <Position15>
+        <Filename Value="czarnypionekfsai.pas"/>
+        <Caret Line="110" Column="38" TopLine="100"/>
+      </Position15>
+      <Position16>
+        <Filename Value="czarnypionekfpai.pas"/>
+        <Caret Line="9" Column="76"/>
+      </Position16>
+      <Position17>
+        <Filename Value="czarnypionekfpai.pas"/>
+        <Caret Line="28" Column="21" TopLine="15"/>
+      </Position17>
+      <Position18>
+        <Filename Value="czarnypionekfpai.pas"/>
+        <Caret Line="37" Column="21" TopLine="28"/>
+      </Position18>
+      <Position19>
+        <Filename Value="czarnypionekfpai.pas"/>
+        <Caret Line="53" Column="37" TopLine="43"/>
+      </Position19>
+      <Position20>
+        <Filename Value="czarnypionekfpai.pas"/>
+        <Caret Line="115" Column="21" TopLine="102"/>
+      </Position20>
+      <Position21>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="135" Column="17" TopLine="128"/>
+      </Position21>
+      <Position22>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="163" Column="10" TopLine="146"/>
+      </Position22>
+      <Position23>
+        <Filename Value="manvsman.pas"/>
+        <Caret Line="200" Column="10" TopLine="183"/>
+      </Position23>
+      <Position24>
+        <Filename Value="manvsman.pas"/>
+        <Caret Line="232" Column="15" TopLine="229"/>
+      </Position24>
+      <Position25>
+        <Filename Value="czarnadamkafpai.pas"/>
+        <Caret Line="10" Column="23" TopLine="4"/>
+      </Position25>
+      <Position26>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="196" Column="15" TopLine="193"/>
+      </Position26>
+      <Position27>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="9" Column="49"/>
+      </Position27>
+      <Position28>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="203" Column="45" TopLine="189"/>
+      </Position28>
+      <Position29>
+        <Filename Value="manvsman.pas"/>
+        <Caret Line="233" Column="3" TopLine="215"/>
+      </Position29>
+      <Position30>
+        <Filename Value="manvsai.pas"/>
+        <Caret Line="141" Column="26" TopLine="134"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
